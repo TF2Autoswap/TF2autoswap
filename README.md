@@ -1,6 +1,5 @@
-# Hey, I'm Sky
+# Welcome to my profile, meow
 
-Meow
 Currently building in Python, learning as I go.
 
 ## Project
