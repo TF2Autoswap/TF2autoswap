@@ -2,7 +2,7 @@
 
 Currently building in Python with assistance from Claude GenAI 
 
-## Project
+## Active Project
 
 - [TF2autoswap]([https://github.com/TF2Autoswap/releases]) — swap TF2 cosmetic and weapon models 
   client-side. Built with Python.
@@ -14,4 +14,4 @@ are welcome, response times may vary.
 
 ## Interests
 
-Team Fortress 2, Counterstrike 2, Cannabis & Technology
+Team Fortress 2, Counterstrike 2, Cannabis, Health & wellbeing & Technology
