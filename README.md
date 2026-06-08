@@ -1,6 +1,6 @@
-# Welcome to my profile, meow
+# Welcome to my profile
 
-Currently building in Python, learning as I go.
+Currently building in Python with assistance from Claude GenAI 
 
 ## Project
 
