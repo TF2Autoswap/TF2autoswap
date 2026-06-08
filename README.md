@@ -4,7 +4,7 @@ Currently building in Python with assistance from Claude GenAI
 
 ## Project
 
-- [TF2autoswap][https://github.com/TF2Autoswap/releases] — swap TF2 cosmetic and weapon models 
+- [TF2autoswap]([https://github.com/TF2Autoswap/releases]) — swap TF2 cosmetic and weapon models 
   client-side. Built with Python.
 
 ## A note
