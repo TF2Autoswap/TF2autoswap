@@ -1,7 +1,5 @@
 # Hey, I'm Sky
 
-25 / England / he/him
-
 Meow
 Currently building in Python, learning as I go.
 
