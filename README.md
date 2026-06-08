@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Sky
 
-<!--
-**TF2Autoswap/TF2autoswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+25 / England / he/him
 
-Here are some ideas to get you started:
+Meow
+Currently building in Python, learning as I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project
+
+- [TF2autoswap]([link](https://github.com/TF2Autoswap/releases)) — swap TF2 cosmetic and weapon models 
+  client-side. Built with Python.
+
+## A note
+
+I'm disabled and work at my own pace — issues and feedback 
+are welcome, response times may vary.
+
+## Interests
+
+Team Fortress 2, Counterstrike 2, Cannabis & Technology
